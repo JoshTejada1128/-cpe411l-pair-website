@@ -162,3 +162,9 @@ body {
     font-size: 2rem;
   }
 }
+
+
+@media (max-width: 480px) {
+  header { text-align: center; }
+  nav a { display: block; margin: 0.5rem 0; font-size: 1.1rem; }
+}
